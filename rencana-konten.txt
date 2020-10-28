@@ -1,0 +1,8 @@
+Rencana konten YNKRNY
+
+- javascript
+- ES6
+- react
+- php frameworks
+- interview
+- vlog
