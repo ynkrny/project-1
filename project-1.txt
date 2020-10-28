@@ -3,3 +3,5 @@ TES project 1
 - konsisten untuk membuat konten 2x seminggu
 - membuat platform untuk pengelolaan video
 - membuat forum diskusi
+- merubah data
+- membuat data
