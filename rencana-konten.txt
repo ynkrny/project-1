@@ -9,3 +9,4 @@ Rencana konten YNKRNY
 - interview
 - vlog
 - phyton
+- vue 
