@@ -4,4 +4,4 @@ TES project 1
 - membuat platform untuk pengelolaan video
 - membuat forum diskusi
 - merubah data
-- membuat data
+- membuat vlog
