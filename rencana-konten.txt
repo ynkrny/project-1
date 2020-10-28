@@ -3,7 +3,9 @@ Rencana konten YNKRNY
 - javascript
 - ES6
 - react
+- laravel
 - fundamental data dasar
 - php frameworks
 - interview
 - vlog
+- phyton
